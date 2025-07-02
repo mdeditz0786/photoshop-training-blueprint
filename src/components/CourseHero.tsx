@@ -57,7 +57,7 @@ const CourseHero = () => {
           <div className="relative animate-fade-in delay-800">
             <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 shadow-2xl border border-white/20 hover:shadow-3xl transition-all duration-500">
               <img 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuAo14L6W5bhyLcfGgTHcf6jORRJx5hs_dg&s" 
+                src="https://master.lk/wp-content/uploads/2025/04/Ps-2.jpg" 
                 alt="Adobe Photoshop 2025 Interface" 
                 className="w-full h-auto rounded-xl shadow-lg"
               />
